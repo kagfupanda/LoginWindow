@@ -19,7 +19,7 @@ public class LoginFrame extends JFrame {
 	public LoginFrame() {
 		// TODO Auto-generated constructor stub
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
-		this.setTitle("Login Window");
+		this.setTitle("Login Window By Me");
 		
 		lp = new LoginPanel();
 		lb = new LoginButtons();
